@@ -1,2 +1,1 @@
-# tindog
-DynamicWebsiteSample
+TinDog Starting Files
